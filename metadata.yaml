@@ -1,0 +1,30 @@
+_repo: The-History-of-England-a-Study-in-Political-Evolution_6358
+creator:
+  author:
+    agent_name: Pollard, A. F. (Albert Frederick)
+    alias: Pollard, Albert Frederick
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '2013'
+    url: http://www.gutenberg.org/2009/agents/2013
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Pollard
+description: Published in 1912, this history begins with the foundations of prehistoric
+  England (55 bc) and continues through 1911 from the basic foundation of a country,
+  through the emergence of a people and a national identity, self-government, expansion,
+  industrial revolution, and finally to an empire. The volume also includes a concluding
+  chapter on the distinctive elements of English democracy.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcsh 'Great Britain -- Politics and government'
+- !lcc 'DA'
+title: The History of England - a Study in Political Evolution
+url: http://www.gutenberg.org/ebooks/6358
